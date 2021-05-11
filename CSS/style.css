@@ -1,0 +1,68 @@
+body {
+    background-color: lightcyan;
+    font-size: 110%;
+}
+
+nav {
+    background-color: mintcream;
+    padding: 4ch;
+    width: 100%;
+    height: 12ch;
+}
+
+img {
+    padding: 1ch;
+}
+
+footer {
+    background-color: mintcream;
+    position: fixed;
+    bottom: 0;
+    padding: 2ch;
+    width: 100%;
+    height: 8ch;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.nav-link {
+    color: darkolivegreen;
+}
+
+.currentPage {
+    font-weight: 650;
+}
+
+.formGroup {
+    padding: 4ch;
+}
+
+.formLabel {
+    padding: 1ch;
+}
+
+.elementForm {
+    margin: 5ch; 
+    background-color: mintcream; 
+    padding: 4ch;
+}
+
+#homeImg {
+    padding-right: 3ch; 
+    padding-bottom: 1ch; 
+    float: left;
+}
+
+#navHead {
+    color: darkgreen;
+}
+
+#navbarSupportedContent {
+    float: right;
+}
+
+#navList {
+    position: fixed; 
+    right: 1%;
+}
